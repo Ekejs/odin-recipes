@@ -1,0 +1,56 @@
+/*style.css*/
+
+* {
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+img {
+
+    width: 400px;
+    height: auto;
+
+}
+
+.mainpage, .recipepage {
+
+    text-align: center;
+    background-color: darkkhaki;
+    
+}
+
+.mainpage h1, .recipepage h1 {
+
+    font-size: 32px;
+    color: brown;
+
+}
+
+.mainpage ul {
+
+    font-size: 24px;
+    color: black;
+    list-style-position: inside;
+    padding-left: 0;
+
+}
+
+.mainpage ul li {
+
+    display: inline;
+
+}
+
+.mainpage a {
+
+    color: black;
+
+}
+
+.recipepage ul, ol {
+
+    list-style-position: inside;
+    padding-left: 0;
+
+}
